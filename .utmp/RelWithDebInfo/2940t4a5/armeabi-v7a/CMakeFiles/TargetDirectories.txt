@@ -1,0 +1,5 @@
+C:/Users/Mohanad/Downloads/ARTask/ARTask/.utmp/RelWithDebInfo/2940t4a5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Mohanad/Downloads/ARTask/ARTask/.utmp/RelWithDebInfo/2940t4a5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/Mohanad/Downloads/ARTask/ARTask/.utmp/RelWithDebInfo/2940t4a5/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Users/Mohanad/Downloads/ARTask/ARTask/.utmp/RelWithDebInfo/2940t4a5/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Mohanad/Downloads/ARTask/ARTask/.utmp/RelWithDebInfo/2940t4a5/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
