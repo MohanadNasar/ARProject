@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4702342624549713531
+  m_GuidHigh: 13561039947588421273
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5045524757494731177
+      m_GuidHigh: 17765879030100502700
+    m_SerializedTextureGuid:
+      m_GuidLow: 3554617014238148391
+      m_GuidHigh: 15402510931958476201
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: BreadMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5718561831154312293
+      m_GuidHigh: 16621204047209352579
+    m_SerializedTextureGuid:
+      m_GuidLow: 13984873920892103139
+      m_GuidHigh: 13793720338752219226
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: SinkMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4941212758198753272
+      m_GuidHigh: 16656221009562139559
+    m_SerializedTextureGuid:
+      m_GuidLow: 10210912365938986617
+      m_GuidHigh: 11514827331976678425
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: ChefMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5174551984849378832
+      m_GuidHigh: 15182462461461527171
+    m_SerializedTextureGuid:
+      m_GuidLow: 1284888822249436906
+      m_GuidHigh: 4221428915379434456
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: EggMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5064417636377731589
+      m_GuidHigh: 9016522254881822390
+    m_SerializedTextureGuid:
+      m_GuidLow: 8053642797325309213
+      m_GuidHigh: 2515546934499888841
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: WalletMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5305163509089422344
+      m_GuidHigh: 66798282148587937
+    m_SerializedTextureGuid:
+      m_GuidLow: 12458193105632436562
+      m_GuidHigh: 10901470256004117193
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: Drummer
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5360589985739917081
+      m_GuidHigh: 11081304381633333930
+    m_SerializedTextureGuid:
+      m_GuidLow: 9936264865739110589
+      m_GuidHigh: 13886766451539515976
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: Guitarist
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5632059244027616029
+      m_GuidHigh: 11305179221344731033
+    m_SerializedTextureGuid:
+      m_GuidLow: 7333246750533477212
+      m_GuidHigh: 11297981838545622249
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: Trumpet
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5731658320968644253
+      m_GuidHigh: 6881380442714471579
+    m_SerializedTextureGuid:
+      m_GuidLow: 3563631041274016284
+      m_GuidHigh: 4638733708778549112
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: 1Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4842225031742268275
+      m_GuidHigh: 8907604710280913583
+    m_SerializedTextureGuid:
+      m_GuidLow: 16038635223357613458
+      m_GuidHigh: 9401150639681465913
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: 3Marker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4912855413654488363
+      m_GuidHigh: 13969323722062008708
+    m_SerializedTextureGuid:
+      m_GuidLow: 5247911667366625200
+      m_GuidHigh: 13389969631733632376
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: CMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5345482021411766118
+      m_GuidHigh: 17730849043029494690
+    m_SerializedTextureGuid:
+      m_GuidLow: 5081418914301079554
+      m_GuidHigh: 18086776739239859416
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: DMarker
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4690773895859279880
+      m_GuidHigh: 16066342266401781661
+    m_SerializedTextureGuid:
+      m_GuidLow: 3482438165142635541
+      m_GuidHigh: 7136204312986993643
+    m_Size: {x: 0.1, y: 0.13333334}
+    m_SpecifySize: 1
+    m_Name: MaidMarker
+    m_Texture: {fileID: 0}
